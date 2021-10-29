@@ -11,6 +11,7 @@
 		"url": "https://github.com/mischnic/parcel-transformer-wat.git"
 	},
 	"dependencies": {
+		"@parcel/diagnostic": "^2.0.0",
 		"@parcel/plugin": "^2.0.0",
 		"wabt": "^1.0.24"
 	},
