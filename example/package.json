@@ -1,0 +1,14 @@
+{
+	"private": true,
+	"name": "example",
+	"version": "0.0.0",
+	"scripts": {
+		"build:node": "parcel build node.js",
+		"start:web": "parcel index.html"
+	},
+	"devDependencies": {
+		"@parcel/transformer-inline-string": "^2.0.0",
+		"parcel": "^2.0.0",
+		"parcel-transformer-wat": "*"
+	}
+}
